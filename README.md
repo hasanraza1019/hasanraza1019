@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hasanraza1019/hasanraza1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🖤 MUHAMMAD HASAN 💛
 
-Here are some ideas to get you started:
+### 「 Full Stack Developer 」
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Anime+%2B+Hacker+Mindset;Building+The+Future;Code+%7C+Create+%7C+Conquer" />
+
+</div>
+
+---
+
+## ⚔️ ABOUT ME
+
+```js
+const Hasan = {
+    location: "Karachi, Pakistan",
+    role: "Full Stack Developer",
+    currentlyLearning: [
+        "TypeScript",
+        "Supabase",
+        "Advanced JavaScript"
+    ],
+    goal: "Become a World-Class Developer",
+    motto: "Stay Consistent."
+}
